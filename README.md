@@ -3,7 +3,7 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Luana Ap. Gonçalves Silva, tenho 28 anos e sou natural de Minas Gerais/Brasil. Concluí o ensino médio na Escola Estadual José Maria Bicalho, com o curso técnico em informática pelo Senai Santa Luzia/MG. Atualmente, estou cursando Engenharia de Software na Ampli e Farmácia na UFMG. Sou apaixonada por tecnologia e depois de 6 anos na área da Farmácia tive o prazer de me reconectar com essa área maravilhosa!
+Me chamo Luana Ap. Gonçalves Silva, tenho 28 anos e sou natural de Minas Gerais/Brasil. Tenho curso de técnico em informática pelo Senai Santa Luzia/MG. Atualmente, estou cursando Engenharia de Software na Ampli e Farmácia na UFMG. Sou apaixonada por tecnologia e depois de 6 anos na área da Farmácia tive o prazer de me reconectar com essa área maravilhosa!
 
 <p align="left">
     <a href= "mailto:luanaagsilva@gmail.com">
